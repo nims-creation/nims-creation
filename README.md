@@ -164,7 +164,17 @@ fun_fact:   >
 
 ## 🧩 LeetCode Stats
 
-<img src="https://leetcard.jacoblin.cool/nitesh_06?theme=dark&font=Fira%20Code&ext=activity&border=0&radius=20&site=cn" />
+<a href="https://leetcode.com/nitesh_06" target="_blank">
+  <img src="https://leetcode-stats-api.herokuapp.com/nitesh_06?theme=dark" />
+</a>
+
+<br/>
+
+<a href="https://leetcode.com/nitesh_06" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-nitesh__06-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+&nbsp;
+<img src="https://img.shields.io/badge/Solving-DSA%20Daily-00FFD1?style=for-the-badge&logo=leetcode&logoColor=black" />
 
 </div>
 
