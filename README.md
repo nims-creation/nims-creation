@@ -115,12 +115,12 @@ fun_fact:   >
 
 ## 📊 GitHub Stats
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nims-creation&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFD1&icon_color=00C6FF&text_color=7FDBFF&rank_icon=github" />
+<img width="49%" src="https://github-readme-stats-salesp07.vercel.app/api?username=nims-creation&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFD1&icon_color=00C6FF&text_color=7FDBFF&rank_icon=github" />
 <img width="49%" src="https://streak-stats.demolab.com?user=nims-creation&theme=tokyonight&hide_border=true&background=0D1117&ring=00FFD1&fire=FF6B6B&currStreakLabel=00C6FF&sideLabels=7FDBFF&dates=7FDBFF&currStreakNum=FFFFFF&sideNums=FFFFFF" />
 
 <br/>
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nims-creation&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFD1&text_color=7FDBFF&langs_count=8" />
+<img width="50%" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=nims-creation&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFD1&text_color=7FDBFF&langs_count=8" />
 
 </div>
 
@@ -163,7 +163,7 @@ fun_fact:   >
 ## 🧩 LeetCode Stats
 
 <a href="https://leetcode.com/nitesh_06" target="_blank">
-  <img src="https://leetcode-stats-api.herokuapp.com/nitesh_06?theme=dark" />
+  <img src="https://leetcard.jacoblin.cool/nitesh_06?theme=dark&font=Nunito&ext=heatmap" />
 </a>
 
 <br/>
