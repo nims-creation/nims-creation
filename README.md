@@ -10,9 +10,7 @@
 <!--                    TYPING ANIMATION                           -->
 <!-- ══════════════════════════════════════════════════════════════ -->
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00FFD1&center=true&vCenter=true&width=600&lines=🚀+Backend+Engineer+from+India;☕+Java+%7C+Spring+Boot+Enthusiast;🧠+Building+Scalable+Systems;🔥+Currently+Crafting+BuildSy;⚡+Open+to+Collabs+on+StaySoul" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00FFD1&center=true&vCenter=true&width=600&lines=🚀+Backend+Engineer+from+India;☕+Java+%7C+Spring+Boot+Enthusiast;🧠+Building+Scalable+Systems;🔥+Currently+Crafting+BuildSy;⚡+Open+to+Collabs+on+StaySoul" alt="Typing SVG" />
 
 <br/>
 
@@ -118,7 +116,7 @@ fun_fact:   >
 ## 📊 GitHub Stats
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=nims-creation&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFD1&icon_color=00C6FF&text_color=7FDBFF&rank_icon=github" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=nims-creation&theme=tokyonight&hide_border=true&background=0D1117&ring=00FFD1&fire=FF6B6B&currStreakLabel=00C6FF&sideLabels=7FDBFF&dates=7FDBFF&currStreakNum=FFFFFF&sideNums=FFFFFF" />
+<img width="49%" src="https://streak-stats.demolab.com?user=nims-creation&theme=tokyonight&hide_border=true&background=0D1117&ring=00FFD1&fire=FF6B6B&currStreakLabel=00C6FF&sideLabels=7FDBFF&dates=7FDBFF&currStreakNum=FFFFFF&sideNums=FFFFFF" />
 
 <br/>
 
